@@ -1,7 +1,5 @@
 ## ʜᴇʏ ʜᴇʏ 👋
 
-<img src= "https://raw.githubusercontent.com/Wolam/Wolam/master/music.png" height=100 width=200>
-
 
 ### ᴀʙᴏᴜᴛ
 
