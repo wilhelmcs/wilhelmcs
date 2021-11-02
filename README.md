@@ -6,7 +6,7 @@
 🗺 Costa Rica / United States.\
 💬 Spanish and English.\
 💻 Studying software engineering & learning web sec.\
-🌊 54+1
+🌊 19+1
 
 
 ### ʟᴀɴɢᴜᴀɢᴇꜱ ᴀɴᴅ ᴛᴏᴏʟꜱ
