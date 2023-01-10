@@ -1,4 +1,4 @@
-#### Software Engineering Student at Costa Rica Institute of Technology
+#### Software Engineer
 
 Countries: Costa Rica - US
 
