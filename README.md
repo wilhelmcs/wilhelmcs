@@ -1,6 +1,6 @@
 #### Software Engineer
 
-Countries: Costa Rica - US
+Countries: Costa Rica - United States
 
 <a href="https://github.com/tthn0/Spotify-Readme">
   <img src="https://wilhelmcs.vercel.app/api" alt="Current Spotify Song">
