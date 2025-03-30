@@ -2,19 +2,6 @@
 
 
 
-<!--
-  Credit to https://github.com/tthn0/tthn0 for README idea.
--->
-
-<div align="center">
-<img
-  height="30%"
-  width="30%"
-  alt="Blond"
-  src="background.png"
-/>
-<div/>
-
 <h3 align="center">
   Hey there, I’m Wil
   <img
@@ -49,9 +36,7 @@
 ```
 ┌────────────────────────────────────┐
 │ OS        ~  Wilhelm Carstens      │
-│ Host      ~  Remote                │
-│ Uptime    ~  22 years              │
-│ Kernel    ~  Encora Digital Inc.   │
+│ Host      ~  Remote                |
 │ Shell     ~  B.S. Software Eng.    │
 │                                    │
 └────────────────────────────────────┘
